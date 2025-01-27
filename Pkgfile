@@ -4,7 +4,7 @@ format: v1alpha2
 
 vars:
   # renovate: datasource=git-refs versioning=git depName=https://github.com/raspberrypi/firmware.git
-  raspberrypi_firmware_ref: 0b1c37755f820948fed2f2223a07abd083093c4e
+  raspberrypi_firmware_ref: e076fda5805ae1f0a04ff7ed098a3a780f6d8c2d
   raspberrypi_firmware_sha256: 585e69996fd79723601be7f3f392df82045c60242e980630e9fde73d1c74d68d
   raspberrypi_firmware_sha512: 3da2928779a85a03ad0b321092671462ad1d2003b621a9b4edd209617ce75aa5079db43329c57b2a4479169ba64912c2743407786454e7e7c9cfc9ba0c0c7906
 
